@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Hey there, I'm Gregory. I'm co-started DataGovs. Previously, I was at Stanford doing work on Data Governance
-and at Microsoft on the Corporate, External, Legal, Affairs team. Before that I worked at insurers, third party administators
-and the bar association on data management projects while organizing one of the largest civic technology groups in Florida. 
+and at Microsoft on the Corporate, External, Legal, Affairs team. 
 
 Here are some ideas to get you started:
 
