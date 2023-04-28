@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hey there, I'm Gregory. I co-started DataGovs. Previously, I was at Stanford doing work on Data + Budget Governance
-and before that at Microsoft on the Corporate, External, Legal, Affairs team in Florida.
+Hey there, I'm Gregory. I co-started DataGovs. I am using TextSQL to make it easier for everyone to be a data analyst and lower the barriers to monitoring data for biz teams tracking regulatory changes.
 
 More about me and what I work on:
 
