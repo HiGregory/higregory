@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey there, I'm Gregory. I co-started DataGovs. I am using TextSQL to make it easier for everyone to be a data analyst and lower the barriers to monitoring data for biz teams tracking regulatory changes.
+Hey there, I'm Gregory. I co-started DataGovs. I am using TextSQL to make it easier for everyone to be a data analyst without knowing SQL.
 
 More about me and what I work on:
 
